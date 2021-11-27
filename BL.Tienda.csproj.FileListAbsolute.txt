@@ -1,0 +1,10 @@
+C:\Users\Dell\OneDrive\Escritorio\leng\Vinyl Store\BL.Tienda\bin\Debug\BL.Tienda.dll.config
+C:\Users\Dell\OneDrive\Escritorio\leng\Vinyl Store\BL.Tienda\bin\Debug\BL.Tienda.dll
+C:\Users\Dell\OneDrive\Escritorio\leng\Vinyl Store\BL.Tienda\bin\Debug\BL.Tienda.pdb
+C:\Users\Dell\OneDrive\Escritorio\leng\Vinyl Store\BL.Tienda\bin\Debug\EntityFramework.dll
+C:\Users\Dell\OneDrive\Escritorio\leng\Vinyl Store\BL.Tienda\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell\OneDrive\Escritorio\leng\Vinyl Store\BL.Tienda\bin\Debug\EntityFramework.xml
+C:\Users\Dell\OneDrive\Escritorio\leng\Vinyl Store\BL.Tienda\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell\OneDrive\Escritorio\leng\Vinyl Store\BL.Tienda\obj\Debug\BL.Tienda.csprojResolveAssemblyReference.cache
+C:\Users\Dell\OneDrive\Escritorio\leng\Vinyl Store\BL.Tienda\obj\Debug\BL.Tienda.dll
+C:\Users\Dell\OneDrive\Escritorio\leng\Vinyl Store\BL.Tienda\obj\Debug\BL.Tienda.pdb
